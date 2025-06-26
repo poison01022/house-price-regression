@@ -63,7 +63,7 @@ python app.py
 
   ```python
   sklearn.linear_model.LinearRegression
-```
+  ```
 
 ## ✅ Model Evaluation
 
