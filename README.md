@@ -84,6 +84,10 @@ You can optionally save plots and results in an `outputs/` folder using:
 ```python
 plt.savefig("outputs/actual_vs_predicted.png")
 ```
+![Image](https://github.com/user-attachments/assets/96a0b007-a5ec-4183-85ee-25cb89263f33)
+![Image](https://github.com/user-attachments/assets/cd9f67c9-2b41-42c7-85d0-c8d0599e14c7)
+
+
 
 ## 🧠 Example Insights
 
